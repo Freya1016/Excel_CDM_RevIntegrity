@@ -1,0 +1,16 @@
+Code,Description,Default_RevCode,Std_Price
+80050,General health panel,0300,180.0
+85025,CBC with auto differential,0300,45.0
+71020,Chest X-ray 2 views,0320,95.0
+74177,CT Abdomen/Pelvis w/contrast,0320,950.0
+99283,"ED visit, level 3",0450,420.0
+99284,"ED visit, level 4",0450,650.0
+J1885,"Ketorolac tromethamine, per 15 mg",0636,38.0
+J0696,"Ceftriaxone sodium, per 250 mg",0636,24.0
+12001,Simple repair superficial wound,0360,350.0
+93000,Electrocardiogram complete,0320,60.0
+A4649,Surgical supply – miscellaneous,0270,75.0
+97110,"Therapeutic exercises, 15 minutes",0420,120.0
+97165,OT evaluation – low complexity,0430,160.0
+J1100,"Dexamethasone sodium phosphate, 1 mg",0636,8.0
+J2405,"Ondansetron HCl, 1 mg",0636,9.0

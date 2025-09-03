@@ -1,0 +1,81 @@
+ClaimID,EncounterID,Code,DeniedUnits,ReasonCode,ReasonText,DeniedAmount
+C3562772,E00127,J2405,0,PR-1,Deductible Amount,0.0
+C8065805,E00118,93000,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
+C1675564,E00180,12001,1,PR-1,Deductible Amount,163.28
+C6168126,E00169,97165,0,CO-97,Payment included in allowance for another service/procedure,0.0
+C4425645,E00095,J1885,0,PR-1,Deductible Amount,0.0
+C6065897,E00042,80050,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
+C5947945,E00196,97165,1,CO-97,Payment included in allowance for another service/procedure,111.09
+C4118712,E00126,J1885,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
+C2660378,E00194,85025,0,CO-97,Payment included in allowance for another service/procedure,0.0
+C6679902,E00177,12001,1,PR-1,Deductible Amount,308.64
+C5832895,E00190,12001,0,CO-16,Claim/service lacks information,0.0
+C3344092,E00028,97165,0,PR-1,Deductible Amount,0.0
+C1736915,E00202,J1100,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
+C7654050,E00176,93000,1,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,58.44
+C3208174,E00088,80050,0,CO-97,Payment included in allowance for another service/procedure,0.0
+C9408575,E00112,71020,0,CO-45,Charge exceeds fee schedule/maximum allowable,0.0
+C5163759,E00031,J1885,0,CO-45,Charge exceeds fee schedule/maximum allowable,0.0
+C8190074,E00148,74177,1,PR-1,Deductible Amount,340.84
+C9357501,E00050,93000,1,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,29.11
+C8190074,E00148,74177,1,PR-1,Deductible Amount,609.75
+C9711065,E00121,J1100,0,CO-45,Charge exceeds fee schedule/maximum allowable,0.0
+C7387790,E00215,97110,0,CO-16,Claim/service lacks information,0.0
+C8521178,E00073,93000,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
+C7654050,E00176,93000,0,CO-16,Claim/service lacks information,0.0
+C6065897,E00042,80050,0,CO-97,Payment included in allowance for another service/procedure,0.0
+C8823872,E00039,J0696,0,CO-45,Charge exceeds fee schedule/maximum allowable,0.0
+C5821186,E00106,85025,1,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,23.79
+C5371724,E00110,J2405,0,CO-97,Payment included in allowance for another service/procedure,0.0
+C1675564,E00180,12001,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
+C1462193,E00011,J2405,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
+C6619879,E00065,74177,0,CO-16,Claim/service lacks information,0.0
+C8239734,E00020,71020,0,PR-1,Deductible Amount,0.0
+C7743650,E00096,J1100,1,PR-1,Deductible Amount,5.2
+C7947110,E00078,A4649,0,CO-97,Payment included in allowance for another service/procedure,0.0
+C9295688,E00130,99283,0,CO-16,Claim/service lacks information,0.0
+C1809804,E00044,99283,0,CO-97,Payment included in allowance for another service/procedure,0.0
+C5450932,E00101,A4649,0,PR-1,Deductible Amount,0.0
+C8783623,E00174,J1885,1,PR-1,Deductible Amount,16.48
+C2538691,E00086,74177,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
+C2129905,E00002,97165,1,CO-45,Charge exceeds fee schedule/maximum allowable,95.65
+C9357501,E00050,93000,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
+C3802500,E00006,97165,1,CO-45,Charge exceeds fee schedule/maximum allowable,147.75
+C2162060,E00179,85025,1,CO-16,Claim/service lacks information,13.78
+C1229298,E00181,12001,0,CO-97,Payment included in allowance for another service/procedure,0.0
+C8056971,E00014,12001,1,CO-16,Claim/service lacks information,302.02
+C1736915,E00202,J1100,8,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,27.95
+C9804642,E00061,97165,1,CO-16,Claim/service lacks information,84.25
+C4118712,E00126,J1885,1,PR-1,Deductible Amount,37.24
+C4343903,E00105,93000,1,CO-97,Payment included in allowance for another service/procedure,58.4
+C1269773,E00034,93000,0,CO-45,Charge exceeds fee schedule/maximum allowable,0.0
+C5035581,E00013,J0696,0,CO-16,Claim/service lacks information,0.0
+C4117552,E00167,97165,1,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,111.97
+C7692068,E00137,A4649,1,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,56.97
+C5314994,E00157,99283,0,CO-97,Payment included in allowance for another service/procedure,0.0
+C8985181,E00208,97110,0,CO-45,Charge exceeds fee schedule/maximum allowable,0.0
+C3828255,E00160,80050,1,CO-97,Payment included in allowance for another service/procedure,141.11
+C1809804,E00044,99283,1,CO-97,Payment included in allowance for another service/procedure,235.37
+C6163202,E00103,97110,1,CO-45,Charge exceeds fee schedule/maximum allowable,66.24
+C5373352,E00164,85025,1,CO-97,Payment included in allowance for another service/procedure,27.4
+C7387790,E00215,97110,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
+C2417384,E00032,J1100,8,CO-97,Payment included in allowance for another service/procedure,52.79
+C8065805,E00118,93000,0,CO-97,Payment included in allowance for another service/procedure,0.0
+C4118712,E00126,J1885,5,CO-97,Payment included in allowance for another service/procedure,146.14
+C6855904,E00216,97165,0,PR-1,Deductible Amount,0.0
+C4337855,E00159,J0696,10,CO-97,Payment included in allowance for another service/procedure,168.21
+C4412616,E00076,A4649,1,CO-16,Claim/service lacks information,70.24
+C9295688,E00130,99283,0,CO-45,Charge exceeds fee schedule/maximum allowable,0.0
+C8239734,E00020,71020,1,CO-16,Claim/service lacks information,37.43
+C7211227,E00057,J0696,8,CO-45,Charge exceeds fee schedule/maximum allowable,125.77
+C6620611,E00205,74177,1,CO-16,Claim/service lacks information,352.89
+C4498735,E00129,J0696,4,PR-1,Deductible Amount,40.31
+C5537332,E00022,J1885,2,CO-97,Payment included in allowance for another service/procedure,48.08
+C5325051,E00165,J0696,0,CO-16,Claim/service lacks information,0.0
+C5989617,E00116,97110,0,CO-45,Charge exceeds fee schedule/maximum allowable,0.0
+C9401283,E00175,97165,0,CO-16,Claim/service lacks information,0.0
+C7582781,E00018,J0696,0,CO-45,Charge exceeds fee schedule/maximum allowable,0.0
+C1764767,E00094,12001,0,CO-16,Claim/service lacks information,0.0
+C9804642,E00061,97165,1,CO-16,Claim/service lacks information,158.73
+C7993425,E00070,97165,1,CO-97,Payment included in allowance for another service/procedure,60.85
+C9629124,E00199,99283,0,CO-151,Payment adjusted because the payer deems the information submitted does not support level of service,0.0
